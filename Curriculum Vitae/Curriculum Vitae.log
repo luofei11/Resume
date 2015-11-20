@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  19 NOV 2015 21:06
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  19 NOV 2015 23:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,7 +7,11 @@ entering extended mode
 (./Curriculum Vitae.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(./Shidi-Zhao.cls
+(./luofei.cls
+
+LaTeX Warning: You have requested document class `luofei',
+               but the document class provides `Shidi-Zhao'.
+
 Document Class: Shidi-Zhao 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -1354,8 +1358,8 @@ Package logreq Info: Writing requests to '"Curriculum Vitae".run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  42040 strings out of 493706
- 781778 string characters out of 6145769
- 1178024 words of memory out of 5000000
+ 781754 string characters out of 6145769
+ 1178016 words of memory out of 5000000
  44908 multiletter control sequences out of 15000+600000
  5886 words of font info for 50 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
